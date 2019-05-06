@@ -1,0 +1,51 @@
+{
+  "nama": [
+    "kendang3",
+    "kendang2",
+    "kendang1",
+    "kendang4"
+  ],
+  "idle": [
+    "kendang-button-default",
+    "kendang-button-default",
+    "kendang-button-default",
+    "kendang-button-default"
+  ],
+  "pressed": [
+    "kendang-button-pressed",
+    "kendang-button-pressed",
+    "kendang-button-pressed",
+    "kendang-button-pressed"
+  ],
+  "hover": [
+    "kendang-button-default",
+    "kendang-button-default",
+    "kendang-button-default",
+    "kendang-button-default"
+  ],
+  "x": [
+    0.2,
+    0.8,
+    0.1,
+    0.9
+    
+  ],
+  "y": [
+    0.2,
+    0.2,
+    0.5,
+    0.5
+  ],
+  "w": [
+    0.2,
+    0.2,
+    0.15,
+    0.15
+  ],
+  "h": [
+    0.2,
+    0.2,
+    0.15,
+    0.15
+  ]
+}

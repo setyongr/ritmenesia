@@ -1,0 +1,50 @@
+{
+  "nama": [
+    "angklung1",
+    "angklung2",
+    "angklung3",
+    "angklung4"
+  ],
+  "idle": [
+    "angklung",
+    "angklung",
+    "angklung",
+    "angklung"
+  ],
+  "pressed": [
+    "angklung-clicked",
+    "angklung-clicked",
+    "angklung-clicked",
+    "angklung-clicked"
+  ],
+  "hover": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "x": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "y": [
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "w": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+  ],
+  "h": [
+    0.15,
+    0.15,
+    0.15,
+    0.15
+  ]
+}

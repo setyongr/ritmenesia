@@ -1,0 +1,66 @@
+{
+  "nama": [
+    "swip1",
+    "swip2",
+    "swip3",
+    "swip4",
+    "swip5",
+    "swip6"
+  ],
+  "idle": [
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default"
+  ],
+  "pressed": [
+    "button-pressed",
+    "button-pressed",
+    "button-pressed",
+    "button-pressed",
+    "button-pressed",
+    "button-pressed"
+  ],
+  "hover": [
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default",
+    "button-default"
+  ],
+  "x": [
+    0.10000000149011612,
+    0.20000000298023224,
+    0.30000001192092896,
+    0.10000000149011612,
+    0.20000000298023224,
+    0.30000001192092896
+  ],
+  "y": [
+    0.6000000238418579,
+    0.6000000238418579,
+    0.6000000238418579,
+    0.30000001192092896,
+    0.30000001192092896,
+    0.30000001192092896
+  ],
+  "w": [
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08
+  ],
+  "h": [
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08
+  ]
+}
